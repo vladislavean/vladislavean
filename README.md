@@ -24,5 +24,6 @@ Junior engineer from Moscow, Russia
   Moscow Technical University of Communications and Informatics (MTUCI)
 ```
 ## My contacts
-| email     | vladislavananev2@yandex.ru |
-| telegram  | t.me/hyperboreanvillager   |
+| email                       | Telegram                  |
+| --------------------------- | ------------------------- |
+| vladislavananev2@yandex.ru  | t.me/hyperboreanvillager  |
