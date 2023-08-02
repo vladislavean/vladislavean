@@ -4,7 +4,7 @@ Junior engineer from Moscow, Russia
 ## Full name and age
 
 ```python
-  Владислав Ананьев | Vladislav Ananev 19 y.0
+  Владислав Ананьев | Vladislav Ananev 19 y.o.
 ```
 ## My stack
 - Python
@@ -18,3 +18,8 @@ Junior engineer from Moscow, Russia
 - Basic knowledge about network and protocols
 - Linux user
 - HTML and CSS
+
+## University
+```Python
+  Moscow Technical University of Communications and Informatics (MTUCI)
+```
