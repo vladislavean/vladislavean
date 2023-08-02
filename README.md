@@ -20,6 +20,6 @@ Junior engineer from Moscow, Russia
 - HTML and CSS
 
 ## University
-```Python
+```
   Moscow Technical University of Communications and Informatics (MTUCI)
 ```
