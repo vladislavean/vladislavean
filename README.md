@@ -1,5 +1,5 @@
 # Vladislavean
-Junior engineer from Moscow, Russia
+Junior self-taught engineer from Moscow, Russia
 
 ## Full name and age
 
@@ -14,6 +14,8 @@ Junior engineer from Moscow, Russia
   - numpy
   - SQLAlchemy
 - SQL
+    - JOIN queries
+    - nested queries
 - Docker
 - Basic knowledge about network and protocols
 - Linux user
@@ -22,6 +24,7 @@ Junior engineer from Moscow, Russia
 ## University
 ```
   Moscow Technical University of Communications and Informatics (MTUCI)
+  3rd year / IT faculty
 ```
 ## My contacts
 | email                       | Telegram                  |
