@@ -1,5 +1,5 @@
 # Vladislavean
-Junior self-taught engineer from Moscow, Russia
+Self-taught junior engineer from Moscow, Russia
 
 ## Full name and age
 
