@@ -1,5 +1,5 @@
-# Vladislavean
-Self-taught junior engineer from Moscow, Russia
+# Hi there!
+Self-taught junior engineer from Moscow, Russia. I write scripts in Python, fond of backend development on Flask and administration of systems and servers. 
 
 ## Full name and age
 
@@ -27,7 +27,6 @@ Self-taught junior engineer from Moscow, Russia
   3rd year / IT faculty
 ```
 ## My contacts
-| email                       | Telegram                  |
-| --------------------------- | ------------------------- |
-| vladislavananev2@yandex.ru  | t.me/hyperboreanvillager  |
 
+Email: vladislavananev2@yandex.ru  
+Tg: t.me/hyperboreanvillager
