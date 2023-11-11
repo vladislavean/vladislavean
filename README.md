@@ -5,7 +5,7 @@ I write scripts in Python, fond of backend development on Flask and administrati
 ## Full name and age
 
 ```
-  Владислав Ананьев | Vladislav Ananev 19 y.o.
+  Владислав Ананьев | Vladislav Ananev 20 y.o.
 ```
 ## My stack
 - Python
