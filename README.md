@@ -22,8 +22,8 @@ Self-taught junior engineer from Moscow, Russia.
 - Git
 - Basic knowledge about network and protocols
 - Linux user
-  -Arch
-  -Ubuntu
+  - Arch
+  - Ubuntu
 - Basic HTML and CSS(flexbox)
 
 ## University
