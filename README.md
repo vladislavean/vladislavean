@@ -1,6 +1,5 @@
 # Hi there!
-Self-taught junior engineer from Moscow, Russia. 
-I write scripts in Python, fond of backend development on Flask and administration of systems and servers. 
+Self-taught junior engineer from Moscow, Russia.
 
 ## Full name and age
 
