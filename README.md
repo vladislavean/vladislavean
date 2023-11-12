@@ -17,10 +17,13 @@ Self-taught junior engineer from Moscow, Russia.
     - JOIN queries
     - nested queries
 - Docker
+  - docker-compose
 - RabbitMQ
 - Git
 - Basic knowledge about network and protocols
 - Linux user
+  -Arch
+  -Ubuntu
 - Basic HTML and CSS(flexbox)
 
 ## University
