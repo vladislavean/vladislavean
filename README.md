@@ -18,6 +18,7 @@ Self-taught junior engineer from Moscow, Russia.
     - nested queries
 - Docker
   - docker-compose
+- Zabbix
 - RabbitMQ
 - Git
 - Basic knowledge about network and protocols
