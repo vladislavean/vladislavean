@@ -1,11 +1,6 @@
 # Hi there!
 Self-taught junior engineer from Moscow, Russia.
-
-## Full name and age
-
-```
-  Владислав Ананьев | Vladislav Ananev 20 y.o.
-```
+Владислав Ананьев (Vladislav Ananev)
 ## My stack
 - Python
   - Flask
@@ -28,10 +23,8 @@ Self-taught junior engineer from Moscow, Russia.
 - Basic HTML and CSS(flexbox)
 
 ## University
-```
   Moscow Technical University of Communications and Informatics (MTUCI)
   3rd year / IT faculty
-```
 ## My contacts
 
 Email: vladislavananev2@yandex.ru  
