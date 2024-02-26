@@ -5,6 +5,7 @@ Self-taught junior engineer from Moscow, Russia.
 ## My stack
 - Python
   - Flask
+  - FastAPI
   - Pandas
   - BS4
   - numpy
