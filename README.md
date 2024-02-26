@@ -14,8 +14,8 @@ Self-taught junior engineer from Moscow, Russia.
   - numpy
   - SQLAlchemy
 - SQL
-    - JOIN queries
-    - nested queries
+    - MSSQL
+    - PostgreSQL
 - Docker
   - docker-compose
 - Zabbix
