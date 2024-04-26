@@ -8,5 +8,5 @@ Self-taught junior engineer from Moscow, Russia.
   3rd year / IT faculty
 ## My contacts
 
-Email: vladislavananev2@yandex.ru  
-Tg: t.me/hyperboreanvillager
+email: vladislavananev2@yandex.ru  
+telegram: t.me/hyperboreanvillager
