@@ -1,5 +1,5 @@
 # Hi there!
-Self-taught engineer from Moscow, Russia.
+Engineer from Moscow, Russia.
 
 Владислав Ананьев (Vladislav Ananev)
 
