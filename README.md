@@ -5,7 +5,7 @@ Engineer from Moscow, Russia.
 
 ## University
   Moscow Technical University of Communications and Informatics (MTUCI)
-  3rd year / IT faculty
+  4 year / IT faculty
 ## My contacts
 
 email: vladislavananev2@yandex.ru  
